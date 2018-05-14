@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyKotlinReactiveProgramming</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="operators_and_observ_activity">OperatorsAndObservableActivity</string>
 </resources>
